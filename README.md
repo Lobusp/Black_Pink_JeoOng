@@ -1,9 +1,9 @@
 ### Hi, I'm Jeo Ong
 
 
-- **Based in:** [City / Region, e.g., Angeles, Philippines]
-- **Focus:** [e.g., Web Apps · UI/UX · Tooling]
-- **Reach me:** `[your-email@example.com]` · [GitHub](https://github.com/your-username) · [LinkedIn / Website](https://your-link.com)
+- **Based in:** [Bical, Mabalacat City, Pampanga, Philippines]
+- **Focus:** [Games, Web Apps · UI/UX · Tooling]
+- **Reach me:** `[sarmientopt@students.nu-clark.edu.ph]` · [GitHub](https://github.com/Lobusp) · 
 
 ---
 
