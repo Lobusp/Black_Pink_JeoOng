@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="snoopy%20pic_1500x500.jpg" width="100%" alt="Library Snoopy Banner">
+<img width="474" height="158" alt="OIP" src="https://github.com/user-attachments/assets/aafb64d9-8044-46d7-93d9-7f3032a33af5" />
 
 <h1>Kamusta! I am Prince Hennesy Sarmiento ੯‧̀͡⬮ ˎˊ˗</h1>
 
