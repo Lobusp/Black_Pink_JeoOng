@@ -2,7 +2,7 @@
 
 <img width="100%" height="158" alt="OIP" src="https://github.com/user-attachments/assets/aafb64d9-8044-46d7-93d9-7f3032a33af5" />
 
-<h1>Kamusta! I am Prince Hennesy Sarmiento ੯‧̀͡⬮ ˎˊ˗</h1>
+<h1>Kamusta! I am Prince Hennesy Sarmiento 👒ˊ˗</h1>
 
 <p><i>"A freshly opened notebook filled with beginner experiments, class exercises, and small steps toward becoming a better developer."</i></p>
 
