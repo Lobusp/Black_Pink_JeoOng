@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>Hello, World! I'm Chris Anne Ramos ੯‧̀͡⬮ ˎˊ˗</h1>
+<h1>Hello, World! I'm Prince Hennesy ੯‧̀͡⬮ ˎˊ˗</h1>
 
 ![BSIT](https://img.shields.io/badge/BSIT_1st_Year-9CAF88?style=flat-square)
 ![Web Dev](https://img.shields.io/badge/Web_Development-D4A373?style=flat-square)
